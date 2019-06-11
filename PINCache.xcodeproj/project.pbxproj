@@ -524,12 +524,8 @@
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-<<<<<<< HEAD
 				en,
 				Base,
-=======
-				English,
->>>>>>> 51343ca955534559ca7514195c1bd1913f2cca9e
 			);
 			mainGroup = CC0105A71E271A1600890935;
 			productRefGroup = CC0105B21E271A1600890935 /* Products */;
