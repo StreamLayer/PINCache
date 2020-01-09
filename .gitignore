@@ -25,3 +25,6 @@ xcuserdata
 DerivedData/
 Carthage/Build
 Carthage/Checkout
+node_modules/
+*.zip
+*.lock

@@ -1,0 +1,11 @@
+PINCache:
+  project: PINCache.xcodeproj
+  sdks:
+  - iphonesimulator
+  - iphoneos
+
+PINCache-tvOS:
+  project: PINCache.xcodeproj
+  sdks:
+  - appletvos
+  - appletvsimulator
